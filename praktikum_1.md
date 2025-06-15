@@ -2,8 +2,8 @@
 
 ## Import Library 
 
-import numpy as np
-import matplotlib.pyplot as plt
+    import numpy as np
+    import matplotlib.pyplot as plt
 ​
 # Definisikan fungsi yang dicari nilai akarnya  
 
